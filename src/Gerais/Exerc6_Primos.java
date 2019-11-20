@@ -18,7 +18,8 @@ public class Exerc6_Primos {
 			Div=0;
 		}
 
-		JOptionPane.showMessageDialog(null, "A soma dos primos é igual à: " + SomaP, "ValoresPrimos", 1);
+		JOptionPane.showMessageDialog(null, "A soma dos primos Ã© igual Ã : " + SomaP, "ValoresPrimos", 1);
 	}
 
 }
+
